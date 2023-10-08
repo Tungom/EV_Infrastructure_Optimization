@@ -8,7 +8,7 @@ This repository contains code for the ESWA Paper: [`Hierarchical Framework for D
 - Run the entire `notebook` by clicking on `Run All` to see the experiments output
 
 you can cite this work as
-```
+``` java 
 @article{tungom2023hierarchical,
   title={Hierarchical framework for demand prediction and iterative optimization of EV charging network infrastructure under uncertainty with cost and quality-of-service consideration},
   author={Tungom, Chia E and Niu, Ben and Wang, Hong},
